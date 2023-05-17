@@ -1,6 +1,7 @@
 # NTHU Qubit Lab
 ## Hi there 👋
 
+* [Publications](Publications.md)
 <!--
 
 **Here are some ideas to get you started:**
